@@ -59,9 +59,15 @@ h6 {
   opacity: 1;
 }
 
+
 /*--------------------------------------------------------------
 # Top Bar
 --------------------------------------------------------------*/
+#topbar .pages li a {
+
+  color: #fff;
+}
+
 #topbar {
   background: #545454;
   padding: 10px 0;
@@ -169,7 +175,7 @@ h6 {
   padding: 10px 0 10px 30px;
   font-family: "Poppins", sans-serif;
   font-size: 14px;
-  color: #545454;
+  color: #ffffff;
   white-space: nowrap;
   transition: 0.3s;
 }
